@@ -1,0 +1,350 @@
+Servername: home
+   RAM: 262144
+   Hack-Level Required: 1
+   Number of Ports Required: 5
+
+Servername: n00dles
+   RAM: 4
+   Hack-Level Required: 1
+   Number of Ports Required: 0
+
+Servername: foodnstuff
+   RAM: 16
+   Hack-Level Required: 1
+   Number of Ports Required: 0
+
+Servername: sigma-cosmetics
+   RAM: 16
+   Hack-Level Required: 5
+   Number of Ports Required: 0
+
+Servername: joesguns
+   RAM: 16
+   Hack-Level Required: 10
+   Number of Ports Required: 0
+
+Servername: hong-fang-tea
+   RAM: 16
+   Hack-Level Required: 30
+   Number of Ports Required: 0
+
+Servername: harakiri-sushi
+   RAM: 16
+   Hack-Level Required: 40
+   Number of Ports Required: 0
+
+Servername: iron-gym
+   RAM: 32
+   Hack-Level Required: 100
+   Number of Ports Required: 1
+
+Servername: zer0
+   RAM: 32
+   Hack-Level Required: 75
+   Number of Ports Required: 1
+
+Servername: max-hardware
+   RAM: 32
+   Hack-Level Required: 80
+   Number of Ports Required: 1
+
+Servername: CSEC
+   RAM: 8
+   Hack-Level Required: 58
+   Number of Ports Required: 1
+
+Servername: nectar-net
+   RAM: 16
+   Hack-Level Required: 20
+   Number of Ports Required: 0
+
+Servername: neo-net
+   RAM: 32
+   Hack-Level Required: 50
+   Number of Ports Required: 1
+
+Servername: silver-helix
+   RAM: 64
+   Hack-Level Required: 150
+   Number of Ports Required: 2
+
+Servername: omega-net
+   RAM: 32
+   Hack-Level Required: 184
+   Number of Ports Required: 2
+
+Servername: phantasy
+   RAM: 32
+   Hack-Level Required: 100
+   Number of Ports Required: 2
+
+Servername: johnson-ortho
+   RAM: 0
+   Hack-Level Required: 272
+   Number of Ports Required: 2
+
+Servername: avmnite-02h
+   RAM: 128
+   Hack-Level Required: 213
+   Number of Ports Required: 2
+
+Servername: netlink
+   RAM: 128
+   Hack-Level Required: 423
+   Number of Ports Required: 3
+
+Servername: crush-fitness
+   RAM: 0
+   Hack-Level Required: 272
+   Number of Ports Required: 2
+
+Servername: the-hub
+   RAM: 32
+   Hack-Level Required: 301
+   Number of Ports Required: 2
+
+Servername: computek
+   RAM: 0
+   Hack-Level Required: 388
+   Number of Ports Required: 3
+
+Servername: summit-uni
+   RAM: 32
+   Hack-Level Required: 473
+   Number of Ports Required: 3
+
+Servername: zb-institute
+   RAM: 32
+   Hack-Level Required: 742
+   Number of Ports Required: 5
+
+Servername: rothman-uni
+   RAM: 64
+   Hack-Level Required: 396
+   Number of Ports Required: 3
+
+Servername: syscore
+   RAM: 0
+   Hack-Level Required: 553
+   Number of Ports Required: 4
+
+Servername: I.I.I.I
+   RAM: 128
+   Hack-Level Required: 365
+   Number of Ports Required: 3
+
+Servername: catalyst
+   RAM: 32
+   Hack-Level Required: 402
+   Number of Ports Required: 3
+
+Servername: rho-construction
+   RAM: 64
+   Hack-Level Required: 496
+   Number of Ports Required: 3
+
+Servername: alpha-ent
+   RAM: 32
+   Hack-Level Required: 545
+   Number of Ports Required: 4
+
+Servername: millenium-fitness
+   RAM: 16
+   Hack-Level Required: 483
+   Number of Ports Required: 3
+
+Servername: lexo-corp
+   RAM: 16
+   Hack-Level Required: 696
+   Number of Ports Required: 4
+
+Servername: aevum-police
+   RAM: 16
+   Hack-Level Required: 433
+   Number of Ports Required: 4
+
+Servername: galactic-cyber
+   RAM: 0
+   Hack-Level Required: 868
+   Number of Ports Required: 5
+
+Servername: aerocorp
+   RAM: 0
+   Hack-Level Required: 862
+   Number of Ports Required: 5
+
+Servername: snap-fitness
+   RAM: 0
+   Hack-Level Required: 738
+   Number of Ports Required: 4
+
+Servername: global-pharm
+   RAM: 8
+   Hack-Level Required: 847
+   Number of Ports Required: 4
+
+Servername: omnia
+   RAM: 16
+   Hack-Level Required: 905
+   Number of Ports Required: 5
+
+Servername: deltaone
+   RAM: 0
+   Hack-Level Required: 838
+   Number of Ports Required: 5
+
+Servername: unitalife
+   RAM: 16
+   Hack-Level Required: 801
+   Number of Ports Required: 4
+
+Servername: univ-energy
+   RAM: 64
+   Hack-Level Required: 888
+   Number of Ports Required: 4
+
+Servername: solaris
+   RAM: 128
+   Hack-Level Required: 796
+   Number of Ports Required: 5
+
+Servername: defcomm
+   RAM: 0
+   Hack-Level Required: 1003
+   Number of Ports Required: 5
+
+Servername: icarus
+   RAM: 0
+   Hack-Level Required: 902
+   Number of Ports Required: 5
+
+Servername: zeus-med
+   RAM: 0
+   Hack-Level Required: 805
+   Number of Ports Required: 5
+
+Servername: taiyang-digital
+   RAM: 0
+   Hack-Level Required: 861
+   Number of Ports Required: 5
+
+Servername: zb-def
+   RAM: 0
+   Hack-Level Required: 789
+   Number of Ports Required: 4
+
+Servername: infocomm
+   RAM: 0
+   Hack-Level Required: 900
+   Number of Ports Required: 5
+
+Servername: nova-med
+   RAM: 0
+   Hack-Level Required: 827
+   Number of Ports Required: 4
+
+Servername: applied-energetics
+   RAM: 0
+   Hack-Level Required: 848
+   Number of Ports Required: 4
+
+Servername: titan-labs
+   RAM: 32
+   Hack-Level Required: 854
+   Number of Ports Required: 5
+
+Servername: microdyne
+   RAM: 32
+   Hack-Level Required: 854
+   Number of Ports Required: 5
+
+Servername: run4theh111z
+   RAM: 64
+   Hack-Level Required: 508
+   Number of Ports Required: 4
+
+Servername: helios
+   RAM: 64
+   Hack-Level Required: 897
+   Number of Ports Required: 5
+
+Servername: vitalife
+   RAM: 64
+   Hack-Level Required: 893
+   Number of Ports Required: 5
+
+Servername: fulcrumtech
+   RAM: 512
+   Hack-Level Required: 1246
+   Number of Ports Required: 5
+
+Servername: stormtech
+   RAM: 0
+   Hack-Level Required: 933
+   Number of Ports Required: 5
+
+Servername: omnitek
+   RAM: 128
+   Hack-Level Required: 1059
+   Number of Ports Required: 5
+
+Servername: .
+   RAM: 16
+   Hack-Level Required: 542
+   Number of Ports Required: 4
+
+Servername: 4sigma
+   RAM: 0
+   Hack-Level Required: 1136
+   Number of Ports Required: 5
+
+Servername: kuai-gong
+   RAM: 0
+   Hack-Level Required: 1009
+   Number of Ports Required: 5
+
+Servername: nwo
+   RAM: 0
+   Hack-Level Required: 1170
+   Number of Ports Required: 5
+
+Servername: clarkinc
+   RAM: 0
+   Hack-Level Required: 1133
+   Number of Ports Required: 5
+
+Servername: b-and-a
+   RAM: 0
+   Hack-Level Required: 1150
+   Number of Ports Required: 5
+
+Servername: powerhouse-fitness
+   RAM: 16
+   Hack-Level Required: 981
+   Number of Ports Required: 5
+
+Servername: blade
+   RAM: 32
+   Hack-Level Required: 916
+   Number of Ports Required: 5
+
+Servername: ecorp
+   RAM: 0
+   Hack-Level Required: 1116
+   Number of Ports Required: 5
+
+Servername: fulcrumassets
+   RAM: 0
+   Hack-Level Required: 1433
+   Number of Ports Required: 5
+
+Servername: megacorp
+   RAM: 0
+   Hack-Level Required: 1257
+   Number of Ports Required: 5
+
+Servername: The-Cave
+   RAM: 0
+   Hack-Level Required: 925
+   Number of Ports Required: 5
+
