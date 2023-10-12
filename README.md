@@ -1,7 +1,7 @@
-# Bitburner_os
+os-install.js# Bitburner_os
 A collection of graphical tools and widgets, with a few additions that allow to expand it, like NS queue and plugin manager. If you want to help, check out the `#projects-talk` channel on the Bitburner discord!
 
-To install, simply download and run `install.js`
+To install, simply download and run `install.js` Nah just run this `os-install.js`
 
 * Network explorer: double click icon to connect to a server
 * Files explorer: double click to open directory or open (nano) a file
