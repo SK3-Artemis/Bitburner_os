@@ -66,6 +66,8 @@ export async function main(ns) {
 
 Install complete! 🎉
 
+To Install Nuburn type: "run installNuburn.js"
+
 Run the following in your home terminal for an example that uses bb-vue:
 run ${mainJsPath}
 
