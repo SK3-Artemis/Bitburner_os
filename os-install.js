@@ -41,7 +41,8 @@ export async function main(ns) {
             ns.tprint(`WARNING: "${fullLocalFilePath}" was not updated. (Currently running, or not located at ${remoteFilePath}?)`)
     }
     ns.tprint(`[Edit by SK_Artemis] ` +
-              `INFO: Pull complete. To start, type: run os/main.js ` + `To Install bb-vue type: run install.js `);
+              `INFO: Pull complete. To start, type: run os/main.js ` +
+              `To Install bb-vue type: run install.js `);
     // Remove any temp files / scripts from the prior version
     ns.run(pathJoin(options.subfolder, `cleanup.js`));
 }
