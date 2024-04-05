@@ -28,7 +28,7 @@ let bbVuePrefixDirectory = ''
  */
 
 let requiredHost = 'home'
-let repoRoot = 'https://raw.githubusercontent.com/SK-24Artemis/bb-vue'
+let repoRoot = 'https://raw.githubusercontent.com/SK3-Artemis/bb-vue'
 let repoBranch = 'dev'
 let manifestFile = 'installManifestNuburn.txt'
 let manifestTmpPath = '/tmp/installManifest__nuburn.txt'
